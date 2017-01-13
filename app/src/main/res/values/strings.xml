@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuickIn</string>
+    <string name="sign_in" />
+    <string name="create_account">create account</string>
+    <string name="sign_out">sign out</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

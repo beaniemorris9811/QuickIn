@@ -1,0 +1,7 @@
+#Wed Jan 11 13:29:45 MST 2017
+base.0=/Users/Zac/Desktop/QuickIn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_af0af456cfd22b33321c120383b02d23d38cb7c0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Zac/Desktop/QuickIn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_abad389866873937a7aab9ea6b095eba9a650664/classes.dex
+base.1=/Users/Zac/Desktop/QuickIn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_abad389866873937a7aab9ea6b095eba9a650664
+file.0=/Users/Zac/Desktop/QuickIn/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_af0af456cfd22b33321c120383b02d23d38cb7c0/classes.dex

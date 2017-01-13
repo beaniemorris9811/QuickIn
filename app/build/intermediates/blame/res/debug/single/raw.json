@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zacheaton/Desktop/QuickIn/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/zacheaton/Desktop/QuickIn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/Zac/Desktop/QuickIn/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/Zac/Desktop/QuickIn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/res/raw/gtm_analytics"
+    }
+]

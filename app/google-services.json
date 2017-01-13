@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "987530126197",
+    "firebase_url": "https://quickin-aac26.firebaseio.com",
+    "project_id": "quickin-aac26",
+    "storage_bucket": "quickin-aac26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987530126197:android:cd521107370738fb",
+        "android_client_info": {
+          "package_name": "com.example.zac.quickin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987530126197-6n47ofs3i74mucvfo0r1vgqprtrbmm7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zac.quickin",
+            "certificate_hash": "438114949FC4CCB38B8B511E1085F3AC91776A99"
+          }
+        },
+        {
+          "client_id": "987530126197-3j1gn8gttsq4oc745nhd1bovbf06ufii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ2d6a7LkSKs967rswNWB0j0KR7Gy-ANI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987530126197-3j1gn8gttsq4oc745nhd1bovbf06ufii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

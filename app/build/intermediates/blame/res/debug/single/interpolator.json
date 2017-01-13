@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zacheaton/Desktop/QuickIn/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/zacheaton/Desktop/QuickIn/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/Zac/Desktop/QuickIn/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/Zac/Desktop/QuickIn/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/Zac/Desktop/QuickIn/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/Zac/Desktop/QuickIn/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/zacheaton/Desktop/QuickIn/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/zacheaton/Desktop/QuickIn/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]
